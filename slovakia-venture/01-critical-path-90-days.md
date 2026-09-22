@@ -1,6 +1,18 @@
 # 01 — Critical Path: the 18-day sprint, then 90 days to Gate 0
 
-**Today: Thursday 17/09/2026.** Everything in Part A is driven by one date.
+**Written: Thursday 17/09/2026. Revised: Tuesday 22/09/2026.** Everything in Part A is driven by one date.
+
+> ### ⏱ CLOCK CHECK — 22/09/2026
+> **9 working days remain** before the 05/10 deadline (was 12 when written).
+>
+> | | 17/09 | 22/09 |
+> |---|---|---|
+> | Calendar days to deadline | 18 | **12** |
+> | Working days | 12 | **9** |
+> | Incorporation lead time **(F)** | 7–10 wd | unchanged |
+> | Earliest / latest IČO if instructed today | 26/09 – 01/10 | **01/10 – 06/10** |
+>
+> **The latest case now lands after the deadline.** The Part A schedule below is preserved as written, for the record; the rows dated 17/09–21/09 have passed. Read §"Revised call" immediately below it before working the table.
 
 ---
 
@@ -35,6 +47,21 @@
 **Sprint cost: under €1,800 (R).** Sprint output: a live company, a submitted grant application, NCAGE in flight, ÚVO registration in flight, an SŠHR answer, and a costed ration pack.
 
 **Fallback if the IČO answer is "required at submission" and incorporation will not land in time (O):** do not force it. Redirect the sprint to the items with no entity prerequisite — SŠHR request, tender documents and pack BOM, co-packer conversations, municipal meetings, the Irish tax opinion — and target the **LEADER/CLLD** and **SZRB** routes in §05 instead, which run on different calendars.
+
+---
+
+## Revised call — 22/09/2026
+
+**(O) The fallback above is now the base case, not the contingency.** With 9 working days left against a 7–10 working-day incorporation, a filing this cycle requires everything to go right and still may not land. One phone call decides it:
+
+| Priority | Action | Why now |
+|---|---|---|
+| **1** | **Call the MIRRI regional centre, Rimavská Sobota.** One question: *is an IČO required at submission, or at contracting?* | Binary. It either reopens the cycle or closes it. Costs one call |
+| **2** | If **at contracting** → instruct incorporation today and run the original Part A table, compressed: draft 23/09–30/09, submit **01/10** | Two clear working days of buffer, not three |
+| **2-alt** | If **at submission** → **stand down on this cycle.** Redirect to the no-entity items below | Nine working days spent on an impossible filing is the expensive mistake |
+| **3** | Either way, start today: SŠHR infožiadosť · TED 456343-2026 · JTF call dates from the same MIRRI call · Irish tax adviser booking · co-packer calls | None require an entity. All feed the next cycle |
+
+**(O) What does *not* change:** incorporation is still worth starting regardless of the grant answer, because it gates NCAGE, ÚVO ZHS, the DNS applications and the six-month trading clock for SBA/SZRB. It simply stops being a *deadline* activity and becomes an ordinary one.
 
 ---
 
