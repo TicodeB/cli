@@ -34,12 +34,18 @@ Building a full factory setup plan now would mean spending your capital and atte
 **(F) The regionálny príspevok call for the 30 priority districts — including Rimavská Sobota — closes on 05/10/2026. €13.9m total. Applications via eGrant.**
 Source: [MIRRI — Regionálny príspevok 2026](https://mirri.gov.sk/sekcie/regionalny-rozvoj-2/prioritne-okresy/regionalny-prispevok-2026/), [TASR](https://www.teraz.sk/slovensko/mirri-otvara-vyzvy-na-regionalny-pri/991592-clanok.html)
 
-> ### ⏱ CLOCK CHECK — updated 22/09/2026
-> **12 calendar days / 9 working days remain.** When this package was written on 17/09 there were 18 calendar days and 12 working days. Five days have been spent.
+> ### ⏱ CLOCK CHECK — updated 24/09/2026
+> **11 calendar days / 7 working days remain.** At writing on 17/09 there were 18 calendar days and 12 working days.
 >
-> **(F) Incorporation takes 7–10 working days.** Instructed today, the IČO lands between **01/10 and 06/10** — the slow case is *after* the deadline. The safe path described below assumed a start on 17/09 and no longer exists.
+> **(F) Incorporation takes 7–10 working days. Instructed today, the IČO lands 05/10 at the earliest — the deadline day itself — and 08/10 at the latest.**
 >
-> **(O) This now resolves the decision rule in `01`:** unless the MIRRI regional centre confirms an IČO is *not* required at submission, treat the regionálny príspevok as **missed for this cycle** and redirect to the instruments on different calendars (§5 below). Do not spend the remaining 9 working days on a filing that probably cannot be made — spend them on the JTF enquiry, the SŠHR request, the pack BOM and the co-packer calls, none of which need an entity.
+> **(O) The incorporation route to this grant is now closed in every case, not just the slow one.** On 22/09 this was still a coin flip; it no longer is. A newly-formed s.r.o. cannot support a submission before 05/10.
+>
+> **Two paths remain, and only one is yours to open:**
+> 1. **MIRRI confirms an IČO is not required at submission** (only at contracting). Then a filing is still possible. **This is the one call worth making, today.**
+> 2. **An existing Slovak entity applies.** Assumption A3 says none exists — if that is wrong, say so, because it reopens the cycle immediately. An Irish Ltd does not qualify; the applicant must be in the priority district.
+>
+> **Otherwise: treat this cycle as missed and stop spending attention on it.** The remaining 7 working days are worth far more on the JTF enquiry, the SŠHR request, the pack BOM and the co-packer calls — none of which need an entity, and all of which feed the next cycle.
 
 It was **18 calendar days** when written. It is the highest-value single action available to you, and Addendum A rated it at 45% success — the joint-best odds in the entire 13-source ladder.
 
@@ -98,7 +104,7 @@ Three hard environment limits. All tested, none are guesses:
 
 ## 5. What I'd attack next if I were you
 
-0. **Make the incorporation call today** (see the clock check in §1). Either the MIRRI answer unlocks a filing without an IČO, or this cycle is gone and you stop spending attention on it. Deciding is cheap; drifting is not.
+0. **Call MIRRI today** (see the clock check in §1). Incorporation can no longer deliver an IČO in time, so the only question left is whether they accept a submission without one. One call closes the question either way; drifting is what costs you.
 1. **Open the TED notice** (2 minutes). It decides whether the core thesis is intact.
 2. **Start the s.r.o. today** — not because incorporation is exciting, but because it is the gate on a €13.9m pot closing in 18 days.
 3. **Send the SŠHR information request** (`templates/infoziadost-sshr.md`). It is one email, it is free, and Addendum A rates it the highest information-per-euro action available. It also has a statutory 8-working-day response clock, so sending it today means an answer inside the 90-day window.

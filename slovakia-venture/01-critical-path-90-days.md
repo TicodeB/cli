@@ -2,17 +2,17 @@
 
 **Written: Thursday 17/09/2026. Revised: Tuesday 22/09/2026.** Everything in Part A is driven by one date.
 
-> ### ⏱ CLOCK CHECK — 22/09/2026
-> **9 working days remain** before the 05/10 deadline (was 12 when written).
+> ### ⏱ CLOCK CHECK — 24/09/2026
+> **7 working days remain** before the 05/10 deadline (was 12 when written).
 >
-> | | 17/09 | 22/09 |
-> |---|---|---|
-> | Calendar days to deadline | 18 | **12** |
-> | Working days | 12 | **9** |
-> | Incorporation lead time **(F)** | 7–10 wd | unchanged |
-> | Earliest / latest IČO if instructed today | 26/09 – 01/10 | **01/10 – 06/10** |
+> | | 17/09 | 22/09 | **24/09** |
+> |---|---|---|---|
+> | Calendar days to deadline | 18 | 12 | **11** |
+> | Working days | 12 | 9 | **7** |
+> | Incorporation lead time **(F)** | 7–10 wd | 7–10 wd | unchanged |
+> | IČO if instructed that day | 26/09 – 01/10 | 01/10 – 06/10 | **05/10 – 08/10** |
 >
-> **The latest case now lands after the deadline.** The Part A schedule below is preserved as written, for the record; the rows dated 17/09–21/09 have passed. Read §"Revised call" immediately below it before working the table.
+> **Even the fast case now lands on the deadline day itself.** The incorporation route to this grant is closed. The Part A schedule below is preserved for the record — every row through 23/09 has passed. Read §"Revised call" before working the table.
 
 ---
 
@@ -50,16 +50,19 @@
 
 ---
 
-## Revised call — 22/09/2026
+## Revised call — 24/09/2026
 
-**(O) The fallback above is now the base case, not the contingency.** With 9 working days left against a 7–10 working-day incorporation, a filing this cycle requires everything to go right and still may not land. One phone call decides it:
+**(O) The fallback is no longer the base case; it is the only case unless MIRRI says otherwise.** With 7 working days left against a 7–10 working-day incorporation, a new s.r.o. cannot produce an IČO before the deadline — the fast case lands *on* 05/10.
 
 | Priority | Action | Why now |
 |---|---|---|
-| **1** | **Call the MIRRI regional centre, Rimavská Sobota.** One question: *is an IČO required at submission, or at contracting?* | Binary. It either reopens the cycle or closes it. Costs one call |
-| **2** | If **at contracting** → instruct incorporation today and run the original Part A table, compressed: draft 23/09–30/09, submit **01/10** | Two clear working days of buffer, not three |
-| **2-alt** | If **at submission** → **stand down on this cycle.** Redirect to the no-entity items below | Nine working days spent on an impossible filing is the expensive mistake |
-| **3** | Either way, start today: SŠHR infožiadosť · TED 456343-2026 · JTF call dates from the same MIRRI call · Irish tax adviser booking · co-packer calls | None require an entity. All feed the next cycle |
+| **1** | **Call the MIRRI regional centre, Rimavská Sobota.** One question: *is an IČO required at submission, or only at contracting?* | The only remaining way this cycle stays open. Costs one call |
+| **1b** | Confirm assumption **A3** — is there genuinely no existing Slovak entity? | An existing s.r.o. in the district reopens the cycle immediately. An Irish Ltd does not qualify |
+| **2** | If **at contracting**, or an entity exists → draft 25/09–01/10, submit **02/10** | Three clear working days of buffer |
+| **2-alt** | If **at submission** and no entity → **stand down on this cycle** | Seven working days on an impossible filing is the expensive mistake |
+| **3** | Either way, start today: SŠHR infožiadosť · TED 456343-2026 · JTF call dates from the same MIRRI call · Irish tax adviser booking · co-packer calls | None need an entity. All feed the next cycle |
+
+**(O) Note how little was actually lost.** The grant was rated 45% and is one leg of a portfolio designed so that no single application matters (`05` §6). Missing this cycle costs one leg of thirteen — the JTF channel alone carries a ticket ten times larger. What would genuinely cost you is spending the last seven working days on it and arriving at 05/10 with neither the grant nor the groundwork.
 
 **(O) What does *not* change:** incorporation is still worth starting regardless of the grant answer, because it gates NCAGE, ÚVO ZHS, the DNS applications and the six-month trading clock for SBA/SZRB. It simply stops being a *deadline* activity and becomes an ordinary one.
 
