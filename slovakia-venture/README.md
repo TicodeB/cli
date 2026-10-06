@@ -37,13 +37,15 @@ Source: [MIRRI — Regionálny príspevok 2026](https://mirri.gov.sk/sekcie/regi
 > ### ✓ CLOSED: regionálny príspevok cycle ended Mon 05/10/2026
 > *This section is historical. Nothing below is a live deadline.*
 >
-> **If you filed:** record the submission reference and the expected decision date, and ignore the rest of this block.
+> **Confirmed 06/10/2026: not filed.** The cycle is gone, and the cost is small — see `05` §6. The window for a newly incorporated entity shut on 24/09, when a 7–10 working-day incorporation could no longer deliver an IČO before 05/10.
 >
-> **If you did not:** the cycle is simply gone, and the cost is small — see `05` §6. The window for a *newly incorporated* entity shut on 24/09, when a 7–10 working-day incorporation could no longer deliver an IČO before 05/10. **(F)** From 26/09 onward every possible start date landed late.
+> **(R) Next regionálny príspevok call expected 2027** — confirm the timing and diarise it; the instrument still fits.
 >
 > **What this does not change:** incorporation is still worth doing, now as an ordinary task rather than a deadline one. It gates NCAGE, ÚVO ZHS, the DNS applications and the six-month trading clock for SBA/SZRB — four things you need regardless of any grant.
 >
-> **Where the funding focus moves:** the **Just Transition Fund** is now the lead instrument. Rimavská Sobota is JTF-eligible, MSME grants run to **€800,000** **(F)** — roughly ten times the regional contribution's realistic ticket — and it carries no 05/10 constraint. See `05` §2 and §6.
+> **Where the funding focus moves — and it is better news than the miss.** The **Just Transition Fund** is now the lead instrument. The call to target is **"Podpora produktívnych investícií MSP v regiónoch FST"**: **€16.89m**, run by **MH SR**, demand-driven, planned **Q4 2026 – Q1 2027**, with Rimavská Sobota an eligible district and **start-ups explicitly in scope (F)**.
+>
+> **(O) That timing is why the miss costs little.** A €16.89m call across seven districts, opening in a window where a 7–10 working-day incorporation comfortably fits, is a better instrument than a €13.9m pot across thirty that you could not reach in time. **Full plan: `12-jtf-application-plan.md`.**
 
 It was **18 calendar days** when written. It is the highest-value single action available to you, and Addendum A rated it at 45% success — the joint-best odds in the entire 13-source ladder.
 
@@ -102,7 +104,8 @@ Three hard environment limits. All tested, none are guesses:
 
 ## 5. What I'd attack next if I were you
 
-0. **Call MIRRI today** (see the clock check in §1). Incorporation can no longer deliver an IČO in time, so the only question left is whether they accept a submission without one. One call closes the question either way; drifting is what costs you.
+0. **Incorporate the s.r.o. this week.** It is now the prerequisite for the lead instrument (`12` §3), and it gates NCAGE, ÚVO ZHS, the DNS applications and the six-month SBA/SZRB trading clock. The JTF call opens Q4 2026 – Q1 2027; 7–10 working days fits comfortably, but only if you start.
+0b. **Call MH SR** for the JTF publication date — they run this call, not MIRRI (`12` §5, action 2).
 1. **Open the TED notice** (2 minutes). It decides whether the core thesis is intact.
 2. **Start the s.r.o. today** — not because incorporation is exciting, but because it is the gate on a €13.9m pot closing in 18 days.
 3. **Send the SŠHR information request** (`templates/infoziadost-sshr.md`). It is one email, it is free, and Addendum A rates it the highest information-per-euro action available. It also has a statutory 8-working-day response clock, so sending it today means an answer inside the 90-day window.

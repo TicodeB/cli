@@ -26,6 +26,15 @@
 
 ## 2. LEAD INSTRUMENT: Just Transition Fund
 
+> **✓ The specific call to target, confirmed 06/10/2026:**
+> **"Podpora produktívnych investícií MSP v regiónoch FST"** — allocation **€16,890,000**, managing body **Ministerstvo hospodárstva SR**, **dopytová** (demand-driven) call, planned **Q4 2026 – Q1 2027**, eligible BB districts include **Rimavská Sobota**, and productive investments in SMEs **including micro-enterprises and start-ups** are explicitly in scope. **(F)**
+>
+> **Full application plan, narrative and work plan: `12-jtf-application-plan.md`.**
+>
+> **(F) Watch the schedule version:** v2.1 listed this as Q2 2026 / open; **v3.0 (July 2026) is operative** and moves it to Q4 2026 – Q1 2027 / dopytová.
+>
+> **(R) Not yet confirmed:** per-project min/max, aid intensity, eligible cost detail. The €100k–800k / 24-month figures in circulation belong to the separate **industrial R&D** call (`PSK-MH-009-2024-DV-FST`) — do not reuse them.
+
 **(F) Rimavská Sobota is an eligible district under the Fond na spravodlivú transformáciu (Just Transition Fund).** In the Banská Bystrica region the eligible districts are **Brezno, Revúca, Rimavská Sobota, Zvolen, Žiar nad Hronom, Žarnovica and Banská Štiavnica**. Total allocation across the three eligible Slovak regions (Trenčín, Košice, Banská Bystrica) is **€459m**.
 
 **(F)** The fund supports creation of new jobs, retraining, **support for SMEs including productive investments**, development of micro-enterprises and start-ups — "especially in new, emerging and transformed sectors of the economy" — plus science/research/innovation and circular economy. One call allows micro, small and medium enterprises to apply for grants **up to €800,000**.
@@ -83,7 +92,7 @@ Order of attack, adjusted from Addendum A for the deadline reality and the JTF f
 | Wave | When | Applications | Rationale |
 |---|---|---|---|
 | ~~Wave 1~~ | ~~→ 05/10/2026~~ | ~~Regionálny príspevok (RS)~~ | **Lapsed — next call expected 2027** |
-| **Wave 1 (new)** | **Now → Dec 2026** | **JTF call (BB region)** · **LEO Feasibility (IE)** · **LEADER/CLLD via local MAS** | The independent trio above: 93.6%, three institutions, three calendars. JTF carries the large ticket |
+| **Wave 1 (new)** | **Now → Q1 2027** | **JTF productive-investments call (MH SR, €16.89m, Q4 2026–Q1 2027)** · **LEO Feasibility (IE)** · **LEADER/CLLD via local MAS** | The independent trio: 93.6%, three institutions, three calendars. JTF carries the large ticket — see `12` |
 | **Wave 2** | Q1–Q2 2027 | SBA/NHF microloan (after 6 months trading) · LEO Priming (IE) · Robotisation voucher | Requires trading history; funds the Tier 1 line |
 | **Wave 3** | Post-Gate 1 | SZRB INVESTaktiv / NDF III guaranteed loan · PPA 73.7 · Program Slovensko SME call | Only against contracted demand |
 | **Wave 4** | Post-Gate 2 | Regional investment aid (35%) · EDIP consortium | Tier 3 scale only |
