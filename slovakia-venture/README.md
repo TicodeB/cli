@@ -34,27 +34,16 @@ Building a full factory setup plan now would mean spending your capital and atte
 **(F) The regionálny príspevok call for the 30 priority districts — including Rimavská Sobota — closes on 05/10/2026. €13.9m total. Applications via eGrant.**
 Source: [MIRRI — Regionálny príspevok 2026](https://mirri.gov.sk/sekcie/regionalny-rozvoj-2/prioritne-okresy/regionalny-prispevok-2026/), [TASR](https://www.teraz.sk/slovensko/mirri-otvara-vyzvy-na-regionalny-pri/991592-clanok.html)
 
-> ### ⏱ DEADLINE: regionálny príspevok closes **Mon 05/10/2026**
-> *Self-dating — read the row for the day you are reading this. No further updates needed.*
+> ### ✓ CLOSED: regionálny príspevok cycle ended Mon 05/10/2026
+> *This section is historical. Nothing below is a live deadline.*
 >
-> **(F) Incorporation takes 7–10 working days.** Every remaining start date lands the IČO **after** the deadline:
+> **If you filed:** record the submission reference and the expected decision date, and ignore the rest of this block.
 >
-> | If you act on | Working days left | IČO at 7 wd | IČO at 10 wd | Verdict |
-> |---|---|---|---|---|
-> | Mon 28/09 | 5 | 07/10 | 12/10 | closed |
-> | Tue 29/09 | 4 | 08/10 | 13/10 | closed |
-> | Wed 30/09 | 3 | 09/10 | 14/10 | closed |
-> | Thu 01/10 | 2 | 12/10 | 15/10 | closed |
-> | Fri 02/10 | 1 | 13/10 | 16/10 | closed |
-> | **Mon 05/10** | **0 — deadline** | 14/10 | 19/10 | closed |
+> **If you did not:** the cycle is simply gone, and the cost is small — see `05` §6. The window for a *newly incorporated* entity shut on 24/09, when a 7–10 working-day incorporation could no longer deliver an IČO before 05/10. **(F)** From 26/09 onward every possible start date landed late.
 >
-> **(O) The incorporation route to this grant is closed, on every remaining day.** It was a coin flip on 22/09 and closed by 24/09. A newly-formed s.r.o. cannot support a submission before 05/10.
+> **What this does not change:** incorporation is still worth doing, now as an ordinary task rather than a deadline one. It gates NCAGE, ÚVO ZHS, the DNS applications and the six-month trading clock for SBA/SZRB — four things you need regardless of any grant.
 >
-> **Two paths remain, and only one is yours to open:**
-> 1. **MIRRI confirms an IČO is not required at submission** (only at contracting). Then a filing is still possible. **This is the one call worth making.**
-> 2. **An existing Slovak entity applies.** Assumption A3 says none exists — if that is wrong, say so, because it reopens the cycle immediately. An Irish Ltd does not qualify; the applicant must be in the priority district.
->
-> **Otherwise: treat this cycle as missed and stop spending attention on it.** The remaining days are worth far more on the JTF enquiry, the SŠHR request, the pack BOM and the co-packer calls — none of which need an entity, and all of which feed the next cycle.
+> **Where the funding focus moves:** the **Just Transition Fund** is now the lead instrument. Rimavská Sobota is JTF-eligible, MSME grants run to **€800,000** **(F)** — roughly ten times the regional contribution's realistic ticket — and it carries no 05/10 constraint. See `05` §2 and §6.
 
 It was **18 calendar days** when written. It is the highest-value single action available to you, and Addendum A rated it at 45% success — the joint-best odds in the entire 13-source ladder.
 

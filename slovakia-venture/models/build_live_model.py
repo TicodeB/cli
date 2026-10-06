@@ -99,7 +99,11 @@ def build() -> pathlib.Path:
         ("4. Sector_Scoring_v2 adds Reversibility: how much committed capital survives failure. The dossier's", None),
         ("   six criteria have no measure of capital at risk before revenue, which is why its sheet ranks the", None),
         ("   EUR600k bakery #1 while Addendum A rejects it. With Reversibility weighted, the ranking inverts.", None),
-        ("5. DEPRECIATION IS CORRECTED. The source charges a flat 20,000 from 2028, i.e. 160,000/8 - but the", BOLD),
+        ("5. Funding_Portfolio: Regionalny prispevok is Include?=0 - its 05/10/2026 call lapsed. Excluding it", BOLD),
+        ("   moves P(at least one) from 99.99% to 99.98%, but removes a leg of the old cheapest trio.", None),
+        ("   Do NOT replace it with SZRB + SIH NDF III: SZRB lends under the NDF III guarantee, so they are", None),
+        ("   one mechanism. Independent trio: microloan + LEO Feasibility + LEADER = 93.6%.", None),
+        ("6. DEPRECIATION IS CORRECTED. The source charges a flat 20,000 from 2028, i.e. 160,000/8 - but the", BOLD),
         ("   40,000 racking is not bought until 2029, so it depreciates an asset a year before purchase.", None),
         ("   Charged as incurred: 2028 = 15,000, 2029 onwards = 20,000. Effect: 2028 PBT is 19,280, not", None),
         ("   14,280. Immaterial to any gate, but a live model should be right. Set the racking capex to 0", None),
@@ -395,7 +399,7 @@ def build() -> pathlib.Path:
         ("LEO Feasibility grant (IE)", "grant, ~EUR15k, 50%", "Market study", 0.60, 1),
         ("LEO Priming grant (IE)", "50% or EUR150,000 max (F)", "Irish entity first-year costs", 0.45, 1),
         ("Enterprise Ireland / IDA defence", "grants/equity/loans (F, 2026 Bill)", "Export & capability", 0.30, 1),
-        ("Regionalny prispevok (MIRRI, RS)", "share of EUR13.9m; deadline 05/10/2026 (F)", "Kitting line, jobs", 0.45, 1),
+        ("Regionalny prispevok (MIRRI, RS)", "LAPSED 05/10/2026; next call expected 2027 (F)", "Kitting line, jobs", 0.45, 0),
         ("Just Transition Fund (BB region)", "MSME grants to EUR800,000 (F)", "Productive investment", 0.40, 1),
         ("PPA intervention 73.7", "EUR35m call (F)", "Tier 3 line", 0.35, 1),
         ("LEADER / CLLD via MAS", "EUR10-100k (R)", "Small equipment", 0.50, 1),
@@ -428,6 +432,12 @@ def build() -> pathlib.Path:
     put(ws, r, 2, "Set Include? to 0/1 to test a smaller portfolio", border=False)
     r += 1
     put(ws, r, 2, "Rule (O): submit >=3 INDEPENDENT applications, different systems, different calendars.")
+    r += 1
+    put(ws, r, 2, "Regionalny prispevok is set to Include?=0: the 05/10/2026 call lapsed. Next call expected 2027.")
+    r += 1
+    put(ws, r, 2, "TRAP (F): SZRB lends UNDER the SIH NDF III guarantee - they are ONE mechanism, not two legs.")
+    r += 1
+    put(ws, r, 2, "Independent trio clearing 90%: microloan 68% + LEO Feasibility 60% + LEADER 50% = 93.6%.")
     r += 1
     put(ws, r, 2, "Three applications to the same ministry are one application wearing three hats.")
 

@@ -2,21 +2,12 @@
 
 **Written: Thursday 17/09/2026. Revised: Tuesday 22/09/2026.** Everything in Part A is driven by one date.
 
-> ### ⏱ DEADLINE: **Mon 05/10/2026** — incorporation route closed
-> *Self-dating. Find the row for today; no further revisions needed.*
+> ### ✓ CLOSED: the 05/10/2026 cycle has ended
+> *Historical. Part A below is a record of a sprint whose deadline has passed — not a live plan.*
 >
-> | If you act on | Working days left | IČO at 7 wd | IČO at 10 wd | Verdict |
-> |---|---|---|---|---|
-> | Mon 28/09 | 5 | 07/10 | 12/10 | closed |
-> | Tue 29/09 | 4 | 08/10 | 13/10 | closed |
-> | Wed 30/09 | 3 | 09/10 | 14/10 | closed |
-> | Thu 01/10 | 2 | 12/10 | 15/10 | closed |
-> | Fri 02/10 | 1 | 13/10 | 16/10 | closed |
-> | **Mon 05/10** | **0 — deadline** | 14/10 | 19/10 | closed |
+> **How the window shut:** 17/09 — 12 working days, comfortable. 22/09 — 9 working days, a coin flip. 24/09 — 7 working days, the fast case landing *on* the deadline. 26/09 onward — every start date late. The route via a newly incorporated s.r.o. was closed from 24/09.
 >
-> **How the window shut:** 17/09 — 12 working days, comfortable. 22/09 — 9 working days, a coin flip. 24/09 — 7 working days, the fast case landing *on* the deadline. From 26/09 on, every start date lands late.
->
-> The Part A schedule below is preserved for the record; its dates have passed. Read §"Revised call" before working the table.
+> **Live work now lives in Part B and in `05` §6.** The gates (Gate 0 / 1 / 2) are unchanged and remain the operative stop rules.
 
 ---
 
@@ -54,7 +45,7 @@
 
 ---
 
-## Revised call — 24/09/2026
+## Revised call — 24/09/2026 *(superseded: the cycle closed on 05/10; kept as the record of the decision)*
 
 **(O) The fallback is no longer the base case; it is the only case unless MIRRI says otherwise.** Against a 7–10 working-day incorporation, no remaining start date produces an IČO before the deadline — see the table above.
 

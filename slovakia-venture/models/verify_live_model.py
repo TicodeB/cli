@@ -85,15 +85,31 @@ def main() -> int:
 
     print("\nFunding portfolio (source: Funding_Portfolio)")
     ws = load_workbook(MODEL)["Funding_Portfolio"]
-    probs = [ws.cell(row=r, column=5).value for r in range(5, 19)
-             if isinstance(ws.cell(row=r, column=5).value, (int, float))]
-    at_least_one = 1.0
-    for p in probs:
-        at_least_one *= (1 - p)
-    at_least_one = 1 - at_least_one
-    print(f"  INFO  {len(probs)} instruments, P(at least one) = {at_least_one:.4f}")
-    if at_least_one < 0.90:
-        FAILURES.append("portfolio below 90%")
+    rows = []
+    for r in range(5, 19):
+        name = ws.cell(row=r, column=2).value
+        prob = ws.cell(row=r, column=5).value
+        include = ws.cell(row=r, column=6).value
+        if isinstance(prob, (int, float)):
+            rows.append((name, prob, bool(include)))
+
+    def at_least_one(ps):
+        q = 1.0
+        for p in ps:
+            q *= (1 - p)
+        return 1 - q
+
+    included = [p for _, p, inc in rows if inc]
+    excluded = [n for n, _, inc in rows if not inc]
+    # Respect the Include? column — a leg set to 0 (e.g. a lapsed call) must not
+    # be counted. Reporting the all-rows figure would overstate the portfolio.
+    print(f"  INFO  {len(rows)} rows, {len(included)} included; "
+          f"P(at least one included) = {at_least_one(included):.4f}")
+    if excluded:
+        print(f"  INFO  excluded: {', '.join(excluded)}")
+    print(f"  INFO  all rows regardless of Include? = {at_least_one([p for _, p, _ in rows]):.4f}")
+    if at_least_one(included) < 0.90:
+        FAILURES.append("included portfolio below 90%")
 
     print("\nSector scoring v2 (weights must sum to 100%)")
     ws = load_workbook(MODEL)["Sector_Scoring_v2"]

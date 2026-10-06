@@ -4,11 +4,15 @@
 
 ---
 
-## 1. The one deadline that matters right now
+## 1. Regionálny príspevok — LAPSED for the 2026 cycle
+
+> **✓ Closed 05/10/2026.** The call ran to 05/10 and has ended. **(R) The next call is expected in 2027** — confirm the timing with the MIRRI regional centre and diarise it, because this instrument remains a good fit (45% rated success, district-specific, business investments explicitly eligible).
+>
+> **(O) Why this costs less than it feels like.** The portfolio was built so no single leg matters. Removing it moves P(at least one of the set succeeds) from **99.99% to 99.98%** — see §6. What it does change is the *cheapest qualifying trio*, which is recomputed there.
 
 | Instrument | Amount | Deadline | Route | Success **(R)** |
 |---|---|---|---|---|
-| **Regionálny príspevok — 30 priority districts** | Share of **€13.9m** | **05/10/2026** | eGrant | 45% |
+| ~~Regionálny príspevok — 30 priority districts~~ | ~~Share of €13.9m~~ | ~~05/10/2026~~ **lapsed** | eGrant | 45% |
 
 **(F)** MIRRI has opened calls for regional contributions for the 30 priority districts; €13.9m is available this year; the submission deadline is 5 October; the process is electronic via **eGrant**. Rimavská Sobota is a priority district. MIRRI applies **separate assessment criteria for business investments** versus projects in health, tourism, social services, education and security.
 
@@ -20,13 +24,13 @@
 
 ---
 
-## 2. The channel Addendum A under-weighted: Just Transition Fund
+## 2. LEAD INSTRUMENT: Just Transition Fund
 
 **(F) Rimavská Sobota is an eligible district under the Fond na spravodlivú transformáciu (Just Transition Fund).** In the Banská Bystrica region the eligible districts are **Brezno, Revúca, Rimavská Sobota, Zvolen, Žiar nad Hronom, Žarnovica and Banská Štiavnica**. Total allocation across the three eligible Slovak regions (Trenčín, Košice, Banská Bystrica) is **€459m**.
 
 **(F)** The fund supports creation of new jobs, retraining, **support for SMEs including productive investments**, development of micro-enterprises and start-ups — "especially in new, emerging and transformed sectors of the economy" — plus science/research/innovation and circular economy. One call allows micro, small and medium enterprises to apply for grants **up to €800,000**.
 
-**(O) Why this matters more than its position in Addendum A's ladder suggests.** JTF is *designed* for exactly your profile: a new manufacturing SME creating jobs in a transitioning district, in an emerging sector. The "new, emerging and transformed sectors" language is a gift — European civil preparedness and defence-adjacent food security is precisely a new sector, and you can document EU policy driving it (EU Stockpiling Strategy COM(2025) 528, Preparedness Union Strategy). **(R) I would rate a well-built JTF application at or above the regional contribution on expected value**, because the ticket size is an order of magnitude larger.
+**(O) With the regional contribution lapsed, this is now the primary grant target — and it was arguably always the better one.** JTF is *designed* for exactly your profile: a new manufacturing SME creating jobs in a transitioning district, in an emerging sector. The "new, emerging and transformed sectors" language is a gift — European civil preparedness and defence-adjacent food security is precisely a new sector, and you can document EU policy driving it (EU Stockpiling Strategy COM(2025) 528, Preparedness Union Strategy). **(R) I would rate a well-built JTF application at or above the regional contribution on expected value**, because the ticket size is an order of magnitude larger.
 
 **Action:** ask the MIRRI regional centre in Rimavská Sobota, in the same conversation as the regional contribution question, **which JTF calls are currently open or scheduled for Banská Bystrica region and what the next submission window is.** One phone call covers both.
 **Source:** [MIRRI — Fond na spravodlivú transformáciu](https://www.mirri.gov.sk/sekcie/investicie/fond-spravodlivej-transformacie/index.html)
@@ -78,16 +82,44 @@ Order of attack, adjusted from Addendum A for the deadline reality and the JTF f
 
 | Wave | When | Applications | Rationale |
 |---|---|---|---|
-| **Wave 1** | **Now → 05/10/2026** | Regionálny príspevok (RS) | Hard deadline. 18 days |
-| **Wave 2** | Oct–Dec 2026 | JTF call (BB region) · LEO Feasibility (IE) · LEADER/CLLD via local MAS | Three different systems, three calendars, genuine independence |
-| **Wave 3** | Q1–Q2 2027 | SBA/NHF microloan (after 6 months trading) · LEO Priming (IE) · Robotisation voucher | Requires trading history; funds the Tier 1 line |
-| **Wave 4** | Post-Gate 1 | SZRB INVESTaktiv / NDF III guaranteed loan · PPA 73.7 · Program Slovensko SME call | Only against contracted demand |
-| **Wave 5** | Post-Gate 2 | Regional investment aid (35%) · EDIP consortium | Tier 3 scale only |
+| ~~Wave 1~~ | ~~→ 05/10/2026~~ | ~~Regionálny príspevok (RS)~~ | **Lapsed — next call expected 2027** |
+| **Wave 1 (new)** | **Now → Dec 2026** | **JTF call (BB region)** · **LEO Feasibility (IE)** · **LEADER/CLLD via local MAS** | The independent trio above: 93.6%, three institutions, three calendars. JTF carries the large ticket |
+| **Wave 2** | Q1–Q2 2027 | SBA/NHF microloan (after 6 months trading) · LEO Priming (IE) · Robotisation voucher | Requires trading history; funds the Tier 1 line |
+| **Wave 3** | Post-Gate 1 | SZRB INVESTaktiv / NDF III guaranteed loan · PPA 73.7 · Program Slovensko SME call | Only against contracted demand |
+| **Wave 4** | Post-Gate 2 | Regional investment aid (35%) · EDIP consortium | Tier 3 scale only |
 
-### On the "90% success" question
-Addendum A answers this correctly and honestly and I am not going to improve it: no single grant has 90% odds; what can be engineered to ≥90% is **P(at least one succeeds) across a portfolio of independent applications**. Its cheapest qualifying set — regional contribution (45%) + LEADER (50%) + SZRB micro-loan (70%) → **91.7%** — still holds, **with one caveat I must flag: I merged two of its lines in §3 above, so re-check that the set you rely on is genuinely three distinct instruments.** Three applications to the same ministry are one application wearing three hats.
+### On the "90% success" question — recomputed 06/10/2026
 
-**(O) Adding the JTF leg materially improves the portfolio** — different fund, different assessors, different calendar, and ten times the ticket size.
+No single grant has 90% odds. What can be engineered to ≥90% is **P(at least one succeeds) across a portfolio of *independent* applications**.
+
+**Effect of losing the regional contribution leg:**
+
+| Set | P(at least one) |
+|---|---|
+| All 14 instruments as originally built | **99.99%** |
+| The 13 remaining (regional lapsed) | **99.98%** |
+| Addendum A's old cheapest trio — regional 45% + LEADER 50% + microloan 68% | ~~91.2%~~ **no longer available** |
+
+**(O) The headline number barely moves, which is the whole point of the design.** What breaks is the *cheapest qualifying trio*, because the regional contribution was one of its three legs.
+
+**New cheapest qualifying trio — and a trap to avoid.** The naive maximiser returns three debt instruments at 94.9%:
+
+> microloan (68%) + SZRB INVESTaktiv (60%) + SIH NDF III (60%) → 94.9%
+
+**Do not use that set. (F) SZRB lends *under* the SIH NDF III guarantee** — they are one mechanism, not two independent legs. Counting both double-counts the same decision and the real probability is materially lower. This is exactly the failure this section warns about: *three applications to the same body are one application wearing three hats.*
+
+**Use this instead — genuinely independent, three different institutions, three different calendars:**
+
+| Leg | Instrument | Success **(R)** | Decided by |
+|---|---|---|---|
+| 1 | **SBA / NHF microloan** | 68% | Slovak Business Agency / NHF |
+| 2 | **LEO Feasibility grant (Ireland)** | 60% | Local Enterprise Office |
+| 3 | **LEADER / CLLD via local MAS** | 50% | Local action group |
+| | **P(at least one)** | **93.6%** | |
+
+**(R) No pair clears 90%** — the best is microloan + LEO Feasibility at 87.2%. Three legs remain the minimum.
+
+**(O) Add the JTF as a fourth.** It is not needed to clear 90%, but it carries the largest ticket in the entire ladder (€800,000 vs €15k–50k for the trio above), so it belongs in the portfolio on expected value rather than on probability.
 
 ---
 
@@ -101,7 +133,7 @@ Addendum A answers this correctly and honestly and I am not going to improve it:
 ---
 
 ## 8. Verification actions
-1. **Call the MIRRI regional centre in Rimavská Sobota** — regional contribution IČO timing *and* open JTF calls, in one call.
+1. **Call the MIRRI regional centre in Rimavská Sobota** — (a) when the **2027** regional-contribution call is expected, and (b) which **JTF** calls are open or scheduled for Banská Bystrica region. One call covers both.
 2. Obtain the **Rimavská Sobota district development plan** and the current call's **assessment criteria**; score your own draft against them.
 3. Read the **Program Slovensko 2026 calls schedule** and diarise every SME/JTF window.
 4. Confirm SBA microloan eligibility for a newly-incorporated entity — **is there a minimum trading period, and if so how long?** This determines whether Wave 3 is Q1 or Q3 2027.
