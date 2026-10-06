@@ -107,6 +107,7 @@ Three hard environment limits. All tested, none are guesses:
 0. **Incorporate the s.r.o. this week.** It is now the prerequisite for the lead instrument (`12` §3), and it gates NCAGE, ÚVO ZHS, the DNS applications and the six-month SBA/SZRB trading clock. The JTF call opens Q4 2026 – Q1 2027; 7–10 working days fits comfortably, but only if you start.
 0b. **Call MH SR** for the JTF publication date — they run this call, not MIRRI (`12` §5, action 2).
 1. **Open the TED notice** (2 minutes). It decides whether the core thesis is intact.
+1b. **Ask the three co-packers the shelf-life question** (`13` §4). This is the real critical path to a contract — not machinery, not certification. Until you hold their written shelf-life declarations you cannot promise a buyer anything.
 2. **Start the s.r.o. today** — not because incorporation is exciting, but because it is the gate on a €13.9m pot closing in 18 days.
 3. **Send the SŠHR information request** (`templates/infoziadost-sshr.md`). It is one email, it is free, and Addendum A rates it the highest information-per-euro action available. It also has a statutory 8-working-day response clock, so sending it today means an answer inside the 90-day window.
 4. **Ignore certification entirely for now.** §03 explains why FSSC 22000, ISO and BRCGS are all premature and what the actual day-one requirement is.
