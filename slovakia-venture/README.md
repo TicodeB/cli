@@ -55,6 +55,10 @@ See `01-critical-path-90-days.md` for the day-by-day plan.
 
 ---
 
+## 2. Read this first if you are travelling
+
+**`DOSSIER-slovakia-trip.md`** / **`DOSSIER-slovakia-trip.pdf`** — a ~25-minute condensed read of the whole package, written to be used on the ground: the five phone calls with the questions written out in Slovak, the premises checklist, the co-packer questions, the traps, and what *not* to decide on the trip. The PDF embeds DejaVu Sans so the Slovak renders correctly offline.
+
 ## 2. What is in this package
 
 | File | Contents |
