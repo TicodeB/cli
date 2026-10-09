@@ -1,0 +1,13 @@
+{
+  "cpv_allow": ["15800000", "15810000", "15890000", "15894100", "09211000",
+                "15130000", "15200000", "15330000", "15600000", "15980000"],
+  "buyer_countries": ["SVK", "CZE", "POL", "HUN", "AUT", "IRL"],
+  "min_value_eur": 2000,
+  "max_value_eur": 25000000,
+  "min_days_to_deadline": 7,
+  "high_score_threshold": 60,
+  "keywords_boost": ["dávk", "ration", "trvanliv", "shelf", "konzerv", "rezerv",
+                     "reserve", "stockpil", "civil protection", "civiln", "potravin"],
+  "api_url": "https://api.ted.europa.eu/v3/notices/search",
+  "page_size": 100
+}

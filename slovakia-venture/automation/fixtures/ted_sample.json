@@ -1,0 +1,42 @@
+[
+  {
+    "notice-identifier": "456343-2026",
+    "notice-title": {"slk": "Bojové dávky potravín - opakovaná súťaž", "eng": "Combat food rations - re-run"},
+    "buyer-name": {"slk": "Ministerstvo obrany Slovenskej republiky"},
+    "buyer-country": "SVK",
+    "classification-cpv": ["15800000", "15894100"],
+    "total-value": "711374.83",
+    "deadline-receipt-tender": "2026-10-21",
+    "publication-date": "2026-07-02"
+  },
+  {
+    "notice-identifier": "351086-2026",
+    "notice-title": {"slk": "DNS - potraviny a nápoje pre vojakov a zamestnancov"},
+    "buyer-name": {"slk": "Ministerstvo obrany Slovenskej republiky"},
+    "buyer-country": "SVK",
+    "classification-cpv": ["15800000"],
+    "total-value": "13166370",
+    "deadline-receipt-tender": "2027-06-30",
+    "publication-date": "2026-05-20"
+  },
+  {
+    "notice-identifier": "999001-2026",
+    "notice-title": {"eng": "Supply of office furniture"},
+    "buyer-name": {"eng": "Some Municipality"},
+    "buyer-country": "SVK",
+    "classification-cpv": ["39130000"],
+    "total-value": "48000",
+    "deadline-receipt-tender": "2026-11-15",
+    "publication-date": "2026-09-01"
+  },
+  {
+    "notice-identifier": "999002-2026",
+    "notice-title": {"eng": "Long shelf life food for civil protection reserve"},
+    "buyer-name": {"eng": "Regional Civil Protection Office"},
+    "buyer-country": "SVK",
+    "classification-cpv": ["15890000"],
+    "total-value": "120000",
+    "deadline-receipt-tender": "2026-09-19",
+    "publication-date": "2026-09-10"
+  }
+]
